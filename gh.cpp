@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int j = 1, k = 0;
-    //задание 1
+    //Р·Р°РґР°РЅРёРµ 1
     k = 3;
     int a;
     a = j + k;
@@ -22,7 +22,7 @@ int main()
     cout << " k / j = " << d << endl;
     cout << " k % j = " << f << endl;
 
-    //задание 2
+    //Р·Р°РґР°РЅРёРµ 2
     cout << boolalpha;
 
     int i = 1, j1 = 0, k1 = 1, l = 0;
@@ -45,7 +45,7 @@ int main()
     cout << "true = " << (l <= j1) << endl;
     cout << "false = " << (i <= l) << endl;
 
-    //задание 3
+    //Р·Р°РґР°РЅРёРµ 3
     int a1 = 3, b1 = 6, c1 = 3, d1 = 6;
 
     cout << "true = " << (a1 == c1 && b1 == d1) << endl;
